@@ -1,14 +1,12 @@
 # multiclassify-eval
 
-
-
-###Introdution
-
 A simple python module to calculate precision, recall,  accuracy and f-measure for multi-classify evaluation.
 
 一个基于Python的简单的多分类问题评估模块，包含查准率(精确率)、查全率(召回率)、精确度，F1度量。
 
 
+
+###Introdution
 
 You can init it by:
 
